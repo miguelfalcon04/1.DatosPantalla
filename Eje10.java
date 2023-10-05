@@ -1,5 +1,6 @@
 public class Eje10 {
     public static void main(String[] args) {
+
         String celeste = "\033[36m";
         String azul = "\033[34m";
         String rojo = "\033[31m";
@@ -14,5 +15,6 @@ public class Eje10 {
         System.out.println(".           .");
         System.out.println(".   (---)   .");
         System.out.println(".............");
+
     }
 }
