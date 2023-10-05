@@ -1,5 +1,6 @@
 public class Eje09 {
     public static void main(String[] args) {
+
         System.out.println("\n");
         System.out.println("      BIENVENIDO");
         System.out.println("   A ESTE EJERCICIO\n");
@@ -10,5 +11,6 @@ public class Eje09 {
         System.out.println(".           .");
         System.out.println(".   (---)   .");
         System.out.println(".............");
+
     }
 }
